@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Herb Sloan interview" ] },
+    "summary": { "en": [ "sul:ARS0022_b06_650600_S621" ] },
+    "items": [
+    ]
+}
