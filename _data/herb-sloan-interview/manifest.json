@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://oceanofsound.github.io/vj535xd7217/herb-sloan-interview/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Herb Sloan interview" ] },
+    "homepage": [
+      {
+        "id": "https://purl.stanford.edu/vj535xd7217",
+        "type": "Text",
+        "label": { "en": [ "Home page for Herb Sloan interview" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://library.stanford.edu/spc",
+        "type": "Agent",
+        "label": { "en": [ "Stanford University Libraries" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://oceanofsound.github.io/vj535xd7217/herb-sloan-interview/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1950.0,
+        "items": [
+          {
+            "id": "https://oceanofsound.github.io/vj535xd7217/herb-sloan-interview/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://oceanofsound.github.io/vj535xd7217/herb-sloan-interview/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://stacks.stanford.edu/file/druid:vj535xd7217/vj535xd7217_sl.m4a",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                  "duration": 1950.0
+                },
+                "target": "https://oceanofsound.github.io/vj535xd7217/herb-sloan-interview/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
