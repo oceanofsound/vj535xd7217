@@ -1,0 +1,71 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://oceanofsound.github.io/vj535xd7217/herb-sloan-interview/canvas-1/canvas/test.json",
+  "type": "AnnotationPage",
+  "label": "test",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://oceanofsound.github.io/vj535xd7217/herb-sloan-interview/canvas-1/canvas/test-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Testing 1",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://oceanofsound.github.io/vj535xd7217/herb-sloan-interview/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "30.451521,605.447890"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://oceanofsound.github.io/vj535xd7217/herb-sloan-interview/canvas-1/canvas/test-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Testing 2",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://oceanofsound.github.io/vj535xd7217/herb-sloan-interview/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "703.967517,1393.604907"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://oceanofsound.github.io/vj535xd7217/herb-sloan-interview/canvas-1/canvas/test-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Testing 3",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://oceanofsound.github.io/vj535xd7217/herb-sloan-interview/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1497.498332,1843.212660"
+        }
+      }
+    }
+  ]
+}

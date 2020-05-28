@@ -23,6 +23,14 @@
         "id": "https://oceanofsound.github.io/vj535xd7217/herb-sloan-interview/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1950.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://oceanofsound.github.io/vj535xd7217/herb-sloan-interview/canvas-1/canvas/test.json",
+            "label": "test"
+          }
+        ],
         "items": [
           {
             "id": "https://oceanofsound.github.io/vj535xd7217/herb-sloan-interview/canvas-1/paintings",
